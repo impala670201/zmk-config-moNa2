@@ -83,7 +83,7 @@
 
         layer_3 {
             bindings = <
-&kp ESCAPE        &trans                  &kp UP_ARROW    &trans                   &trans                     &trans  &trans    &mkp MB4  &trans    &kp BACKSPACE
+&kp ESCAPE        &trans                  &trans          &trans                   &trans                     &trans  &trans    &mkp MB4  &trans    &kp BACKSPACE
 &kp TAB           &kp LEFT_ARROW          &kp DOWN_ARROW  &kp RIGHT_ARROW          &kp END            &trans  &trans  &mkp MB1  &trans    &mkp MB2  &kp GRAVE
 &kp LEFT_SHIFT    &kp LG(LS(LEFT_ARROW))  &trans          &kp LG(LS(RIGHT_ARROW))  &trans   &trans    &trans  &trans  &trans    &mkp MB5  &trans    &kp FSLH
 &kp LEFT_CONTROL  &trans                  &kp LEFT_ALT    &trans                   &trans   &trans    &trans  &trans                                &kp RIGHT_SHIFT
